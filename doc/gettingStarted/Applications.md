@@ -71,7 +71,7 @@ InfiniTime has 13 apps on the `main` branch at the time of writing.
 ![2 UI](/doc/gettingStarted/AppsScreenshots/2048.png)
 - This app does not allow you to swipe from the top to exit, use the side button instead.
 - Play a game of 2048.
-- Swipe up, down, left, or right tomove the tiles.
+- Swipe up, down, left, or right to move the tiles.
 - When two tiles with the same number run into each other, they will add together.
 - Goal: Don't let the screen fill up with tiles, and get to the 2048 tile to win.
 
